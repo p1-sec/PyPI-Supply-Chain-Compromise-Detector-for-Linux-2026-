@@ -83,9 +83,9 @@ Checks:
 ## Usage
 
 ```bash
-chmod +x pypi_compromise_detect.sh
+chmod +x pypi_compromise_detect_v2.sh
 
-sudo bash pypi_compromise_detect.sh
+sudo bash pypi_compromise_detect_v2.sh
 ```
 
 The forensic report will be generated at:
